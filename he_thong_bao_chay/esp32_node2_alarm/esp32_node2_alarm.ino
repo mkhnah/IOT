@@ -17,10 +17,10 @@
 // ==========================================
 // 1. CẤU HÌNH WIFI & MQTT BROKER
 // ==========================================
-const char *WIFI_SSID = "Phong A2.203 2.4 Ghz";
-const char *WIFI_PASSWORD = "thuvien@123";
+const char *WIFI_SSID = "v";
+const char *WIFI_PASSWORD = "1234567891";
 
-const char *mqtt_server = "192.168.11.150"; // IP máy tính của bạn
+const char *mqtt_server = "192.168.137.48"; // IP máy tính của bạn
 const int mqtt_port = 1883;
 
 // Topics MQTT
